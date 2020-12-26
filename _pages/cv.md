@@ -13,8 +13,8 @@ Education
 ======
 * M.S. in Computer Science: Inteligent Systems, Universidade Federal de Sao Paulo (UNIFESP), 2017-2019
   *  Evaluation of global network alignment in obesity metagenomics data
-  * B.S. in Computer Science, Universidade Federal de Sao Paulo (UNIFESP), 2016-2018
-    * Modeling and analysis of metabolic networks using graph theory
+* B.S. in Computer Science, Universidade Federal de Sao Paulo (UNIFESP), 2016-2018
+  * Modeling and analysis of metabolic networks using graph theory
 * B.S. in Science and Technology, Universidade Federal de Sao Paulo (UNIFESP), 2013-2016
 
 Work experience
@@ -24,20 +24,28 @@ Work experience
 
 Scholarships
 =======
-  * Social Work of Universidade Federal de São Paulo by Biocomputional
+* Social Work of Universidade Federal de São Paulo by Biocomputional
 Capes Project. (06/2016 to 12/2016)
-    ** Development of data analytics framework to drive the university cultural programs.
-  * Junior Reasearcher of Universidade Federal de São Paulo by Biocomputional
+     * Development of data analytics framework to drive the university cultural programs.
+* Junior Reasearcher of Universidade Federal de São Paulo by Biocomputional
 Capes Project. (2014 to 2015)
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Science Development Languages
+  * C/C++
+  * Java
+  * Python2/3
+  * Perl
+  * R/Shiny
+  * SQL
+  * PHP
+  * HTML/CSS
+* Java Design Patterns and Agile (Scrum)
+* Statistical Analysis
+* Machine Learning Problems
+* Complex Networks
+* Data Mining
 
 Languages
 =======
