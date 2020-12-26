@@ -25,10 +25,10 @@ Work experience
 Scholarships
 =======
 * Social Work of Universidade Federal de São Paulo by Biocomputional
-Capes Project. (06/2016 to 12/2016)
+Capes Project. (06/2016 - 12/2016)
      * Development of data analytics framework to drive the university cultural programs.
 * Junior Reasearcher of Universidade Federal de São Paulo by Biocomputional
-Capes Project. (2014 to 2015)
+Capes Project. (2014 - 2015)
 
 Skills
 ======
@@ -66,6 +66,6 @@ Talks
 
 Service and leadership
 ======
-* Head of Extension Project Cinematografo from Universidade Federal de São Paulo. (2015 to 2016)
-* Head of Younger Department of Japanese Society Orion de São José dos Campos. (2014 to 2016)
+* Head of Extension Project Cinematografo from Universidade Federal de São Paulo. (2015 - 2016)
+* Head of Younger Department of Japanese Society Orion de São José dos Campos. (2014 - 2016)
 * Teenagers Japan Experience Fellowship of Japan International Cooperation Agency (2011)
