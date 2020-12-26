@@ -20,7 +20,7 @@ Education
 Work experience
 ======
   * 12/2016-04/2017: Intern Delta Life
-  * FullStack web developer
+    * FullStack web developer
 
 Scholarships
 =======
