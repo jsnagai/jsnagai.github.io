@@ -11,22 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Computer Science: Inteligent Systems, Universidade Federal de Sao Paulo (UNIFESP), 2017-2019
+  *  Evaluation of global network alignment in obesity metagenomics data
+  * B.S. in Computer Science, Universidade Federal de Sao Paulo (UNIFESP), 2016-2018
+    * Modeling and analysis of metabolic networks using graph theory
+* B.S. in Science and Technology, Universidade Federal de Sao Paulo (UNIFESP), 2013-2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * 12/2016-04/2017: Intern Delta Life
+  * FullStack web developer
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+Scholarships
+=======
+  * Social Work of Universidade Federal de São Paulo by Biocomputional
+Capes Project. (06/2016 to 12/2016)
+    ** Development of data analytics framework to drive the university cultural programs.
+  * Junior Reasearcher of Universidade Federal de São Paulo by Biocomputional
+Capes Project. (2014 to 2015)
+
 Skills
 ======
 * Skill 1
@@ -36,24 +39,25 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+Languages
+=======
+* Japanese (Certificate N2, Japanese Language Proficiency Test in 2013)
+* English (TOEFL ATP A2 level)
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Head of Extension Project Cinematografo from Universidade Federal de São Paulo. (2015 to 2016)
+* Head of Younger Department of Japanese Society Orion de São José dos Campos. (2014 to 2016)
+* Teenagers Japan Experience Fellowship of Japan International Cooperation Agency (2011)
