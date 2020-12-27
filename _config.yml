@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "James Shiniti Nagai"
-  avatar           : "./images/profile2.png"
+  avatar           : "profile2_100.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Aachen, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.br/citations?hl=en&user=-kLuDuAAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : 
+  email            :
   researchgate     : "https://www.researchgate.net/profile/James_Nagai"
   uri              :
   bitbucket        :
