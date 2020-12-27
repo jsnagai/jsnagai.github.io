@@ -75,14 +75,15 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-2TBV1TYQ29"
+    anonymize_ip : true
 
 
 # Site Author
 author:
   name             : "James Shiniti Nagai"
   avatar           : "profile2_200.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Machine Learning, Complex Network, Computational Biology and Bioinformatics"
   location         : "Aachen, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
