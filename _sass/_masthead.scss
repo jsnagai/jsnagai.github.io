@@ -36,7 +36,6 @@
   ul {
     margin: 0;
     padding: 0;
-    padding-left: 10em;
     clear: both;
     list-style-type: none;
   }
@@ -48,7 +47,7 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 2em;
+    padding-right: 15em;
     font-weight: 700;
   }
 }
