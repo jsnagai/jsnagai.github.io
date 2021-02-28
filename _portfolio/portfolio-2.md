@@ -1,6 +1,6 @@
 ---
 title: "Heterogeneous bone-marrow stromal progenitors drive myelofibrosis via a druggable alarmin axis"
-excerpt: "https://www.sciencedirect.com/science/article/pii/S1934590920305427?via%3Dihub#undfig1<br/><img src='/images/csc2020.jpg'>"
+excerpt: "https://www.sciencedirect.com/science/article/pii/S1934590920305427?via%3Dihub#undfig1<br/><img src='/images/csc2020.png'>"
 collection: portfolio
 ---
 
