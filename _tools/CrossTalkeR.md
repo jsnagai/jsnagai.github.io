@@ -1,8 +1,8 @@
 ---
 title: "CrossTalkeR"
 collection: tools
-type: "Tools"
-permalink: /tools/CrossTalkeR.md
+type: "tools"
+permalink: /tools/CrossTalkeR
 venue: "NA"
 date: 2012-03-01
 location: "NA"
