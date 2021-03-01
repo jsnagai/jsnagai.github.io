@@ -10,4 +10,5 @@ redirect_from:
 
 {% include base_path %}
 
-I\`m  25 years old Research Assistant @ [Institute for Computational Genomics, RWTH Uniklinik Aachen](https://costalab.org/). My research is related to the development of methods and new approaches to dissect biological process using complex network and graph theory. I am third generation japanese descendent born and raised in Mogi das Cruzes-SP-Brazil and currently based in Aachen, Germany.
+
+I'm a 25 year old Doctoral Researcher @ [Institute for Computational Genomics, RWTH Uniklinik Aachen](https://costalab.org/). My research is related to the development of methods and approaches to dissect biological processes using complex networks and graph theory. I am third generation Japanese descendent, born and raised in Mogi das Cruzes, S.P. Brazil. I am currently based in Aachen, Germany.

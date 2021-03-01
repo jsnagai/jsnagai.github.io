@@ -8,7 +8,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Nagai, James Shiniti"
 description              : &description "personal description"
