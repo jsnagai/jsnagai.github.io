@@ -1,6 +1,6 @@
 ---
 title: "CrossTalkeR: Analysis and Visualisation of Ligand Receptor Networks"
-excerpt: "https://www.biorxiv.org/content/10.1101/2021.01.20.427390v1<br/><img src='/images/CrossTalkeR.png'>"
+excerpt: "source:https://www.biorxiv.org/content/10.1101/2021.01.20.427390v1<br/><img src='/images/CrossTalkeR.png'>"
 collection: portfolio
 ---
 

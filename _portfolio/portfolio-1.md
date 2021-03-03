@@ -1,6 +1,6 @@
 ---
 title: "Gene Essentiality Prediction Using Topological Features From Metabolic Networks"
-excerpt: "https://ieeexplore.ieee.org/document/8575595<br/><img src='/images/Bracis2018.png'>"
+excerpt: "source:https://ieeexplore.ieee.org/document/8575595<br/><img src='/images/Bracis2018.png'>"
 collection: portfolio
 ---
 
