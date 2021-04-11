@@ -24,8 +24,7 @@ Work experience
 
 Scholarships
 =======
-* Social Work of Universidade Federal de São Paulo by Biocomputional
-Capes Project. (06/2016 - 12/2016)
+* Social Work of Universidade Federal de São Paulo. (06/2016 - 12/2016)
      * Development of data analytics framework to drive the university cultural programs.
 * Junior Reasearcher of Universidade Federal de São Paulo by Biocomputional
 Capes Project. (2014 - 2015)
